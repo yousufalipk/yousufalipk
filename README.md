@@ -1,4 +1,4 @@
-![logo](https://github.com/ameeryousufalibhatti/ameeryousufalibhatti/blob/main/banner.png)
+![logo](https://github.com/yousufalipk/ameeryousufalibhatti/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm yousuf bhatti</h1>
 <h3 align="center">My primary expertise lies in full-stack web developement & i own a solid foundation in programing languages such as C++, Java, HTML, CSS & Javascipt. Over past 1 year i have been actively working in React.js & Node.js!</h3>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue, Angular & TSX etc,**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ameeryousufalibhatti/](https://www.linkedin.com/in/ameeryousufalibhatti/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/YousufAli/](https://www.linkedin.com/in/yousufalipk/)
 
 - 📝 I regularly write articles on [https://www.cyberspherex.com/](https://www.cyberspherex.com/)
 
