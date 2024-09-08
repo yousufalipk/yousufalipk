@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ameeryousuf.pk@gmail.com**
 
-- 📄 Know about my experiences [https://ameeryousufcv.blogspot.com/](https://ameeryousufcv.blogspot.com/)
+- 📄 Know about my experiences [www.ameeryousuf.com](https://ameeryousuf.vercel.app)
 
 - ⚡ Fun fact **How do programmers pray? They use 'try-catch' to handle life's exceptions!**
 
