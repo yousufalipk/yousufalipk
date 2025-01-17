@@ -38,17 +38,6 @@ Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves bui
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
-</div>
-
----
-
 ## 📂 Featured Projects
 
 ### [Derya Arms](https://github.com/yousufalipk/derya-arms)
