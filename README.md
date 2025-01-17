@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm yousuf bhatti</h1>
 <h3 align="center">My primary expertise lies in full-stack web developement & i own a solid foundation in programing languages such as C++, Java, HTML, CSS & Javascipt. Over past 1 year i have been actively working in React.js & Node.js!</h3>
 
-<img align="right" alt="coding" width="200" height="200" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9523njp9xdlsefmj9ftyc3dhj987tot6m8eopnpqq3y&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="200" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xuNmNvcTR4aTVzYmVwdXNqNDd6OTd6NzJ0enUxOGZqNGk4MGlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameeryousufalibhatti&label=Profile%20views&color=0e75b6&style=flat" alt="ameeryousufalibhatti" /> </p>
 
