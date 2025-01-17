@@ -18,25 +18,36 @@ Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves bui
 
 ## 🛠️ Tech Stack
 
-### Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="width: 50%;">
+    <h3>Tech Stack</h3>
+    <h4>Languages:</h4>
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
 
-### Frontend:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+    <h4>Frontend:</h4>
+    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css" />
 
-### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+    <h4>Backend:</h4>
+    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+    <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
 
-### Tools:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+    <h4>Tools:</h4>
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+    <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" />
+    <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" />
+  </div>
+
+  <div style="width: 50%; display: flex; justify-content: center;">
+    <img src="your-gif-url.gif" alt="Tech GIF" style="width: 100%; height: auto;" />
+  </div>
+</div>
+
+---
 
 ## 📂 Featured Projects
 
@@ -64,7 +75,7 @@ Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves bui
 🚀 Description: A SPA for a luxury car rental business in KSA with a services section, contact options, and WhatsApp integration.
 
 - Tech stack: **MERN Stack, Tailwind CSS**
-- 
+
 ---
 
 ## 🌐 Connect with Me
@@ -76,4 +87,4 @@ Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves bui
 
 ---
 
-⭐️ From [Yousuf Bhatti](https://github.com/yousufalipk) add a gif infrotnt of tech stack 
+⭐️ From [Yousuf Bhatti](https://github.com/yousufalipk)
