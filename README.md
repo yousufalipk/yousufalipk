@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves bui
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xuNmNvcTR4aTVzYmVwdXNqNDd6OTd6NzJ0enUxOGZqNGk4MGlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="500" alt="Coding GIF" />
+</div>
+
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -37,6 +41,8 @@ Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves bui
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
+---
 
 ## 📂 Featured Projects
 
@@ -64,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves bui
 🚀 Description: A SPA for a luxury car rental business in KSA with a services section, contact options, and WhatsApp integration.
 
 - Tech stack: **MERN Stack, Tailwind CSS**
-- 
+
 ---
 
 ## 🌐 Connect with Me
