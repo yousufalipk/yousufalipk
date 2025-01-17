@@ -55,31 +55,26 @@ Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves bui
 🚀 Description: A feature-rich eCommerce platform with a landing page, product categories, and a dashboard for managing products and categories.
 
 - Tech stack: **MERN Stack, Tailwind CSS**
-- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/derya-arms?style=social)
 
 ### [Class Connect (FYP)](https://github.com/yousufalipk/class-connect)
 🚀 Description: Facial recognition-based attendance system with MCQs and assignment management, including detailed performance reports for students.
 
 - Tech stack: **React, Node.js, Express.js, MongoDB**
-- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/class-connect?style=social)
 
 ### [CyberSphereX](https://github.com/yousufalipk/cyberspherex)
 🚀 Description: A custom chatbot using GPT-3.5 with JWT-based authentication and chat history saving for seamless user experience.
 
 - Tech stack: **MERN Stack, GPT-3.5 API**
-- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/cyberspherex?style=social)
 
 ### [Ameer Yousuf Portfolio](https://ameeryousuf.com)
 🚀 Description: A professional SPA portfolio showcasing education, work experience, projects, and achievements.
 
 - Tech stack: **Next.js, Tailwind CSS**
-- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/ameeryousuf-portfolio?style=social)
 
 ### [BURAQ Luxury Travel](https://github.com/yousufalipk/buraq-luxury-travel)
 🚀 Description: A SPA for a luxury car rental business in KSA with a services section, contact options, and WhatsApp integration.
 
 - Tech stack: **MERN Stack, Tailwind CSS**
-- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/buraq-luxury-travel?style=social)
 - 
 ---
 
