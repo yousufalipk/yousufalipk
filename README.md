@@ -1,69 +1,95 @@
-![logo](https://github.com/yousufalipk/ameeryousufalibhatti/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Ameer Yousuf Ali Bhatti</h1>
-<h3 align="center">Full Stack Web Developer & Software Engineer</h3>
+# Hi there, I'm [Ameer Yousuf Ali Bhatti] 👋
 
-<img align="right" alt="coding" width="250" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xuNmNvcTR4aTVzYmVwdXNqNDd6OTd6NzJ0enUxOGZqNGk4MGlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
+Welcome to my GitHub profile! I'm a passionate **[Web Developer]** who loves building impactful software solutions and exploring the latest tech trends. 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousufalipk&label=Profile%20views&color=0e75b6&style=flat" alt="yousufalipk" /> </p>
-
-- 🔭 I’m currently working on [Final Year Project (Class Connect)](https://www.instagram.com/class_connect_system/)
-
-- 🌱 I’m currently learning **Vue.js, Angular, TypeScript, and more**
-
-- 👨‍💻 All of my projects are available at [https://ameeryousuf.com](https://ameeryousuf.com)
-
-- 📝 I regularly write articles on [CyberSphereX](https://www.cyberspherex.com/)
-
-- 💬 Ask me about **MERN Stack, Tailwind CSS, and Responsive Design**
-
-- 📫 How to reach me **ameeryousuf.pk@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://ameeryousuf.com)
-
-- ⚡ Fun fact: **How do programmers pray? They use 'try-catch' to handle life's exceptions!**
+![Profile Banner](https://github.com/yousufalipk/yousufalipk/blob/main/banner.png)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yousufbhatti786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yousufbhatti786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yousufalipk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousufalipk" height="30" width="40" /></a>
-<a href="https://fb.com/yousufbhatti2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@yousufbhatti2002" height="30" width="40" /></a>
-<a href="https://instagram.com/yousufbhatti_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yousufbhatti_1" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
+
+- 🌱 Currently learning **[Blockchain, Three.js, Frammer, Nextjs]**  
+- 👨‍💻 Working on **[Telegram Mini Apps and Scalable Dashboards]**  
+- 💬 Ask me about **[MERN Stack Development, Tailwind CSS, API Integration, and WebSocket Applications]**  
+- 🎯 Goals for 2025: **[Build impactful web solutions, enhance expertise in cloud deployments, and contribute to open-source projects]**  
+- 📫 Reach me at **[https://ameeryousuf.com](https://ameeryousuf.com)**  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### Languages:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+### Frontend:
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+
+### Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### Tools:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufalipk&show_icons=true&locale=en&layout=compact" alt="yousufalipk" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousufalipk&show_icons=true&locale=en" alt="yousufalipk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufalipk&" alt="yousufalipk" /></p>
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### [Derya Arms](https://github.com/yousufalipk/derya-arms)
+🚀 Description: A feature-rich eCommerce platform with a landing page, product categories, and a dashboard for managing products and categories.
+
+- Tech stack: **MERN Stack, Tailwind CSS**
+- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/derya-arms?style=social)
+
+### [Class Connect (FYP)](https://github.com/yousufalipk/class-connect)
+🚀 Description: Facial recognition-based attendance system with MCQs and assignment management, including detailed performance reports for students.
+
+- Tech stack: **React, Node.js, Express.js, MongoDB**
+- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/class-connect?style=social)
+
+### [CyberSphereX](https://github.com/yousufalipk/cyberspherex)
+🚀 Description: A custom chatbot using GPT-3.5 with JWT-based authentication and chat history saving for seamless user experience.
+
+- Tech stack: **MERN Stack, GPT-3.5 API**
+- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/cyberspherex?style=social)
+
+### [Ameer Yousuf Portfolio](https://ameeryousuf.com)
+🚀 Description: A professional SPA portfolio showcasing education, work experience, projects, and achievements.
+
+- Tech stack: **Next.js, Tailwind CSS**
+- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/ameeryousuf-portfolio?style=social)
+
+### [BURAQ Luxury Travel](https://github.com/yousufalipk/buraq-luxury-travel)
+🚀 Description: A SPA for a luxury car rental business in KSA with a services section, contact options, and WhatsApp integration.
+
+- Tech stack: **MERN Stack, Tailwind CSS**
+- ⭐ Stars: ![GitHub Repo stars](https://img.shields.io/github/stars/yousufalipk/buraq-luxury-travel?style=social)
+- 
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousufalipk)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yousufbhatti786)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://ameeryousuf.com)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:ameeryousuf.pk@gmail.com)
+
+---
+
+⭐️ From [Yousuf Bhatti](https://github.com/yousufalipk)
