@@ -1,6 +1,6 @@
-# Hi there, I'm [Ameer Yousuf Ali Bhatti] 👋
+# Hi there, I'm Ameer Yousuf Ali Bhatti 👋
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves building impactful software solutions and exploring the latest tech trends. 🌟
+Welcome to my GitHub profile! I'm a passionate **MERN Stack Web Developer** who loves building impactful software solutions and exploring the latest tech trends. 🌟
 
 ![Profile Banner](https://github.com/yousufalipk/yousufalipk/blob/main/banner.png)
 
@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves build
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Blockchain, Three.js, Frammer, Nextjs**  
-- 👨‍💻 Working on **Telegram Mini Apps and Scalable Dashboards**  
-- 💬 Ask me about **MERN Stack Development, Tailwind CSS, API Integration, and WebSocket Applications**  
+- 🌱 Currently learning **Nextjs, Typescript**  
+- 👨‍💻 Working on **Ecommerce Website**  
+- 💬 Ask me about **MERN Stack Development, Tailwind CSS and API Integration**  
 - 🎯 Goals for 2025: **Build impactful web solutions, enhance expertise in cloud deployments, and contribute to open-source projects**  
 - 📫 Reach me at **[https://ameeryousuf.com](https://ameeryousuf.com)**  
 
@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves build
 
 **Languages:**
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 **Frontend:**
@@ -37,31 +36,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves build
 - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 - ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-
----
-
-## 📂 Featured Projects
-
-### [Derya Arms](https://github.com/yousufalipk/derya-arms)
-🚀 A feature-rich eCommerce platform with a landing page, product categories, and a dashboard for managing products and categories.  
-**Tech stack:** MERN Stack, Tailwind CSS
-
-### [Class Connect (FYP)](https://github.com/yousufalipk/class-connect)
-🚀 Facial recognition-based attendance system with MCQs and assignment management, including detailed performance reports for students.  
-**Tech stack:** React, Node.js, Express.js, MongoDB
-
-### [CyberSphereX](https://github.com/yousufalipk/cyberspherex)
-🚀 A custom chatbot using GPT-3.5 with JWT-based authentication and chat history saving for a seamless user experience.  
-**Tech stack:** MERN Stack, GPT-3.5 API
-
-### [Ameer Yousuf Portfolio](https://ameeryousuf.com)
-🚀 A professional SPA portfolio showcasing education, work experience, projects, and achievements.  
-**Tech stack:** Next.js, Tailwind CSS
-
-### [BURAQ Luxury Travel](https://github.com/yousufalipk/buraq-luxury-travel)
-🚀 A SPA for a luxury car rental business in KSA with a services section, contact options, and WhatsApp integration.  
-**Tech stack:** MERN Stack, Tailwind CSS
-
 ---
 
 ## 🌐 Connect with Me
